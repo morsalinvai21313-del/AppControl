@@ -1,20 +1,22 @@
 {
   "app_config": {
     "maintenance": false,
-    "maintenance_msg": "🔧 Server is under maintenance! Please try again later."
+    "maintenance_msg": "🔧 Server is under maintenance! Please try again later.",
+    "global_admin_link": "https://t.me/Sanny_king_zz",
+    "latest_global_version": "1.0"
   },
   "users": [
     {
       "id": "28ccf7adadc16dd5",
-      "name": "Sanny User 1",
-      "key": "SANNY-VIP-1",
+      "name": "Sanny King",
+      "key": "SANNY-VIP-77",
       "status": "active",
       "expiry": "2026-12-31 23:59:59",
       "required_version": "1.0",
-      "personal_notice": "Welcome to Sanny Auth!",
-      "update_msg": "",
-      "update_url": "",
-      "renew_msg": "License Expired!",
+      "personal_notice": "স্বাগতম! আপনার প্রিমিয়াম এক্সেস চালু আছে।",
+      "update_msg": "নতুন ভার্সন ১.১ এসেছে। এখনই আপডেট করুন।",
+      "update_url": "https://t.me/Sanny_king_zz",
+      "renew_msg": "আপনার লাইসেন্স শেষ হয়ে গেছে! রিনিউ করুন।",
       "renew_url": "https://t.me/Sanny_king_zz"
     },
     {
@@ -35,6 +37,42 @@
       "name": "User 3",
       "key": "KEY-3",
       "status": "active",
+      "expiry": "none",
+      "required_version": "1.0",
+      "personal_notice": "",
+      "update_msg": "",
+      "update_url": "",
+      "renew_msg": "",
+      "renew_url": ""
+    },
+    {
+      "id": "USER_ID_4",
+      "name": "User 4",
+      "key": "KEY-4",
+      "status": "active",
+      "expiry": "none",
+      "required_version": "1.0",
+      "personal_notice": "",
+      "update_msg": "",
+      "update_url": "",
+      "renew_msg": "",
+      "renew_url": ""
+    },
+    {
+      "id": "USER_ID_5",
+      "name": "User 5",
+      "key": "KEY-5",
+      "status": "active",
+      "expiry": "none",
+      "required_version": "1.0",
+      "personal_notice": "",
+      "update_msg": "",
+      "update_url": "",
+      "renew_msg": "",
+      "renew_url": ""
+    }
+  ]
+}      "status": "active",
       "expiry": "none",
       "required_version": "1.0",
       "personal_notice": "",
