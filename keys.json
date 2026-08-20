@@ -12,12 +12,12 @@
   },
   "users": [
     {
-      "id": "28ccf7adadc16dd5",
+      "id": "18ccf7adadc16dd5",
       "name": "Sanny User",
       "key": "SANNY-VIP-77",
       "status": "active",
       "expiry": "2026-12-31 23:59:59",
-      "personal_notice": "আপনার প্রিমিয়াম মেম্বারশিপ অ্যাক্টিভ আছে।",
+      "personal_notice": "",
       "update_msg": "",
       "update_url": "",
       "renew_msg": "",
