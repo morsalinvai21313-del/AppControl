@@ -9,10 +9,10 @@
       "id": "28ccf7adadc16dd5",
       "user": "sanny_admin",
       "pass": "123456",
-      "status": "active",
+      "status": "banned",
       "expiry": "2026-12-31 23:59:59",
       "required_version": "1.0",
-      "personal_notice": "Welcome Sanny! Your premium access is active.",
+      "personal_notice": "",
       "update_msg": "New version available!",
       "update_url": "https://t.me/Sanny_king_zz"
     },
