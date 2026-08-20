@@ -10,7 +10,7 @@
       "key": "SANNY-VIP-1",
       "status": "active",
       "expiry": "2026-12-31 23:59:59",
-      "required_version": "1.0",
+      "required_version": "1.1",
       "personal_notice": "Welcome to Sanny Auth!",
       "update_msg": "New Update Available!",
       "update_url": "https://t.me/Sanny_king_zz",
