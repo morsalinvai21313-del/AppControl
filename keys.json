@@ -1,31 +1,39 @@
 {
-  "app_config": {
-    "maintenance": false,
-    "maintenance_msg": "🔧 Server is under maintenance! Please try again later.",
-    "global_admin_link": "https://t.me/Sanny_king_zz"
+  "global_control": {
+    "is_maintenance": false,
+    "maintenance_msg": "🔧 সার্ভার রক্ষণাবেক্ষণের কাজ চলছে। দয়া করে পরে চেষ্টা করুন।",
+    "is_global_banned": false,
+    "global_ban_msg": "❌ বর্তমানে আমাদের অ্যাপটি সাময়িকভাবে সবার জন্য বন্ধ আছে।",
+    "required_version": "1.0",
+    "global_update_msg": "সবাইকে নতুন ভার্সন আপডেট করতে বলা হচ্ছে!",
+    "global_update_url": "https://t.me/Sanny_king_zz",
+    "global_notice": "আমাদের অ্যাপে স্বাগতম! নতুন কোনো সমস্যার জন্য এডমিনকে জানান।",
+    "admin_link": "https://t.me/Sanny_king_zz"
   },
   "users": [
     {
       "id": "28ccf7adadc16dd5",
-      "user": "sanny_admin",
-      "pass": "123456",
+      "name": "Sanny User",
+      "key": "SANNY-VIP-77",
       "status": "active",
       "expiry": "2026-12-31 23:59:59",
-      "required_version": "1.0",
-      "personal_notice": "",
-      "update_msg": "New version available!",
-      "update_url": "https://t.me/Sanny_king_zz"
+      "personal_notice": "আপনার প্রিমিয়াম মেম্বারশিপ অ্যাক্টিভ আছে।",
+      "update_msg": "",
+      "update_url": "",
+      "renew_msg": "",
+      "renew_url": ""
     },
     {
-      "id": "USER_ID_2",
-      "user": "username2",
-      "pass": "pass2",
-      "status": "active",
+      "id": "USER_ID_2_HERE",
+      "name": "Demo User",
+      "key": "KEY-123",
+      "status": "banned",
       "expiry": "none",
-      "required_version": "1.0",
-      "personal_notice": "",
+      "personal_notice": "আপনি অ্যাপের নিয়ম ভেঙেছেন তাই আপনাকে ব্যান করা হয়েছে!",
       "update_msg": "",
-      "update_url": ""
+      "update_url": "",
+      "renew_msg": "",
+      "renew_url": ""
     }
   ]
 }
