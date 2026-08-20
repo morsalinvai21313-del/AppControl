@@ -1,39 +1,71 @@
 {
   "global_control": {
     "is_maintenance": false,
-    "maintenance_msg": "🔧 সার্ভার রক্ষণাবেক্ষণের কাজ চলছে। দয়া করে পরে চেষ্টা করুন।",
+    "maintenance_msg": "🔧 সার্ভার রক্ষণাবেক্ষণ চলছে।",
     "is_global_banned": false,
-    "global_ban_msg": "❌ বর্তমানে আমাদের অ্যাপটি সাময়িকভাবে সবার জন্য বন্ধ আছে।",
+    "global_ban_msg": "❌ অ্যাপটি সাময়িকভাবে বন্ধ আছে।",
     "required_version": "1.0",
-    "global_update_msg": "সবাইকে নতুন ভার্সন আপডেট করতে বলা হচ্ছে!",
+    "global_update_msg": "সবাই নতুন ভার্সনটি নামিয়ে নিন!",
     "global_update_url": "https://t.me/Sanny_king_zz",
-    "global_notice": "আমাদের অ্যাপে স্বাগতম! নতুন কোনো সমস্যার জন্য এডমিনকে জানান।",
+    "global_notice": "আমাদের গ্রুপে জয়েন করুন!",
     "admin_link": "https://t.me/Sanny_king_zz"
   },
   "users": [
     {
       "id": "18ccf7adadc16dd5",
-      "name": "Sanny User",
+      "name": "Sanny Admin",
       "key": "SANNY-VIP-77",
       "status": "active",
       "expiry": "2026-12-31 23:59:59",
-      "personal_notice": "",
-      "update_msg": "",
-      "update_url": "",
-      "renew_msg": "",
-      "renew_url": ""
+      "personal_notice": "স্বাগতম সানি ভাই!",
+      "personal_version": "1.0",
+      "personal_update_msg": "",
+      "personal_update_url": ""
     },
     {
-      "id": "USER_ID_2_HERE",
-      "name": "Demo User",
-      "key": "KEY-123",
+      "id": "DEVICE_ID_2",
+      "name": "User 2",
+      "key": "KEY-22",
       "status": "banned",
+      "expiry": "2024-12-01 00:00:00",
+      "personal_notice": "আপনার আইডি ব্যান করা হয়েছে!",
+      "personal_version": "1.0",
+      "personal_update_msg": "",
+      "personal_update_url": ""
+    },
+    {
+      "id": "DEVICE_ID_3",
+      "name": "User 3",
+      "key": "KEY-33",
+      "status": "active",
       "expiry": "none",
-      "personal_notice": "আপনি অ্যাপের নিয়ম ভেঙেছেন তাই আপনাকে ব্যান করা হয়েছে!",
-      "update_msg": "",
-      "update_url": "",
-      "renew_msg": "",
-      "renew_url": ""
+      "personal_notice": "",
+      "personal_version": "1.1",
+      "personal_update_msg": "আপনার জন্য স্পেশাল আপডেট!",
+      "personal_update_url": "https://t.me/Sanny_king_zz"
+    },
+    {
+      "id": "DEVICE_ID_4",
+      "name": "User 4",
+      "key": "KEY-44",
+      "status": "active",
+      "expiry": "none",
+      "personal_notice": "",
+      "personal_version": "1.0",
+      "personal_update_msg": "",
+      "personal_update_url": ""
+    },
+    {
+      "id": "DEVICE_ID_5",
+      "name": "User 5",
+      "key": "KEY-55",
+      "status": "active",
+      "expiry": "none",
+      "personal_notice": "",
+      "personal_version": "1.0",
+      "personal_update_msg": "",
+      "personal_update_url": ""
     }
   ]
+}  ]
 }
